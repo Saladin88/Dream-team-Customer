@@ -1,0 +1,17 @@
+design
+
+**/uploads
+
+**/.project
+**/.dbeaver
+
+**/.settings
+**/.classpath
+
+**/.mvn
+**/mvnw*
+**/target
+**/bin
+
+**/.DS_Store
+dt-business/src/main/resources/application.properties
