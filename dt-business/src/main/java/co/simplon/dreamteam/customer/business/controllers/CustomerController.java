@@ -16,7 +16,6 @@ import jakarta.validation.Valid;
 
 @RestController
 @RequestMapping("/form")
-@CrossOrigin("*")
 public class CustomerController {
 
     private final CustomerService service;

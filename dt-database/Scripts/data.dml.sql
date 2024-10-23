@@ -17,13 +17,13 @@ INSERT INTO t_customers (
     customer_message, team_size_id, company_size_id
 ) VALUES
 ('John', 'Doe', 'john.doe@example.com', '555-1234', 'Acme Corp', 'Manager', 
- 'Looking for a new CRM solution.'),
+ 'Looking for a new CRM solution.',1,1),
 ('Jane', 'Smith', 'jane.smith@example.com', '555-5678', 'Tech Innovators', 'CEO', 
- 'Interested in a demo.'),
+ 'Interested in a demo.',1,1),
 ('Alice', 'Brown', 'alice.brown@example.com', '555-8765', 'Brown Enterprises', 'CTO', 
- 'We need a scalable cloud solution.')
+ 'We need a scalable cloud solution.',1,1)
  ('Fabien', 'Astia', 'alice.brown@example.com', '555-8765', 'Brown Enterprises', 'CTO', 
- 'We need a scalable cloud solution.');
+ 'We need a scalable cloud solution.',1,1);
  
 SELECT * FROM t_team_sizes;
 SELECT * FROM t_company_sizes;
