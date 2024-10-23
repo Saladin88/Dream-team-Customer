@@ -21,7 +21,7 @@ INSERT INTO t_customers (
 ('Jane', 'Smith', 'jane.smith@example.com', '555-5678', 'Tech Innovators', 'CEO', 
  'Interested in a demo.',1,1),
 ('Alice', 'Brown', 'alice.brown@example.com', '555-8765', 'Brown Enterprises', 'CTO', 
- 'We need a scalable cloud solution.',1,1)
+ 'We need a scalable cloud solution.',1,1),
  ('Fabien', 'Astia', 'alice.brown@example.com', '555-8765', 'Brown Enterprises', 'CTO', 
  'We need a scalable cloud solution.',1,1);
  
