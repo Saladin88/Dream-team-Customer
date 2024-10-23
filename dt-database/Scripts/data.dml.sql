@@ -4,9 +4,9 @@ INSERT INTO t_company_sizes (company_size_range) VALUES
 ('FROM_1000_TO_10000'), 
 ('MORE_THAN_10000');
 
--- Insertion des tailles d'équipes
+-- Insertion des tailles d'équipe
 INSERT INTO t_team_sizes (team_size_range) VALUES 
-('LESS_THAN_200'), 
+('LESS_THAN_200'),
 ('FROM_200_TO_1000'), 
 ('MORE_THAN_1000');
 
